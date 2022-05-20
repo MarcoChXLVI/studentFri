@@ -2,7 +2,7 @@ package student_spr2022;
 import java.util.*; 
 
 public class Student_spr2022 {
-
+//comments
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("Please enter a word :");
