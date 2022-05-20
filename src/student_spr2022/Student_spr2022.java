@@ -5,7 +5,7 @@ public class Student_spr2022 {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        System.out.println("Please enter a word :");
+        System.out.println("Please enter a word :");//scanner
         String myWord = scan.nextLine();
         //System.out.print(word);
         //char[] test = new char[5];
