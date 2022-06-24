@@ -14,7 +14,7 @@ public class Student_spr2022 {
         //test[2]='R';
         //test[3]='c';
         //test[4]='O';
-        
+        // test.... test
         char[] myLetter = new char[myWord.length()];
                 
         for (int i = 0; i < myLetter.length; i++) {
